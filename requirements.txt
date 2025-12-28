@@ -1,0 +1,14 @@
+flask
+requests
+beautifulsoup4
+lxml
+scikit-learn
+pandas
+joblib
+transformers
+torch
+sentencepiece
+fpdf2
+streamlit
+selenium
+webdriver-manager

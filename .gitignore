@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.joblib
+models/
+NotoSansBengali-Regular.ttf
+.DS_Store
+NotoSansTamil-Regular.ttf
